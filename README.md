@@ -47,7 +47,7 @@ A API aplica validações e regras de negócio no servidor, mantendo o frontend 
 ## 🚀 Como executar
 
 ### Pré-requisitos
-- **.NET SDK** (recomendado: 8+)
+- **.NET SDK** (recomendado: 10)
 - **Node.js** (recomendado: 18+)
 - Gerenciador de pacotes: `npm` ou `pnpm`
 
