@@ -1,0 +1,18 @@
+<Solution>
+  <Folder Name="/1 - Server/">
+    <Project Path="FinanceControl.csproj" />
+  </Folder>
+  <Folder Name="/2 - Application/">
+    <Project Path="../Application/Application.csproj" Id="ec58c4b1-649a-4033-9a5a-874c1039e39e" />
+  </Folder>
+  <Folder Name="/3 - Domain/">
+    <Project Path="../Domain/Domain.csproj" Id="55841f3d-4ac0-479d-b5a5-2e8dd7a6d95b" />
+  </Folder>
+  <Folder Name="/4 - Infraestructure/" />
+  <Folder Name="/4 - Infraestructure/4.1 - Data/">
+    <Project Path="../Data/Data.csproj" Id="11623815-7009-4aab-8ea2-ec3bfa5a177a" />
+  </Folder>
+  <Folder Name="/4 - Infraestructure/4.2 - Infra/">
+    <Project Path="../Infra/Infra.csproj" Id="afdfb35d-daee-41c5-bb10-7cfc206fd6f4" />
+  </Folder>
+</Solution>
